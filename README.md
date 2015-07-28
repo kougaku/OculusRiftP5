@@ -34,8 +34,10 @@ This is an example for making augmented reality. You need web camera for running
 
 ##Environment
 It was checked that it worked in the following environment.
-- Oculus Rift DK2
-- Oculus Runtime for Windows V0.5.0.1-beta
+- Oculus Rift DK2 (currently only for DK2)
+- Oculus Runtime V0.5.0.1-beta
+- Processing 2.2.1
+- Windows 8.1 and OS X Yosemite (v10.10.2)
 <br>
 <br>
 
