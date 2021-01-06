@@ -6,33 +6,33 @@ Oculus Rift Library for Processing
 The library is currently distributed by PDE format (OculusRift.pde).
 First, see and run OculusRift_BasicExample.
 
-##Examples
-###OculusRift_BasicExample
+## Examples
+### OculusRift_BasicExample
 This example shows simple scene that contains a wall, a floorboard, a cube, and stereo picture.
 
 <img src="/OculusRift_BasicExample/screenshot.png" width="50%" height="50%" alt="OculusRift_BasicExample">
 <br>
 
-###OculusRift_PanoramaView
+### OculusRift_PanoramaView
 It shows a spherical panorama view. The included picture was taken by [RICOH THETA](https://theta360.com/).
 
 <img src="/OculusRift_PanoramaView/screenshot.jpg" width="50%" height="50%" alt="OculusRift_PanoramaView">
 <br>
 
-###OculusRift_RadarExample
+### OculusRift_RadarExample
 It shows a radar denoting user's head direction.
 
 <img src="/OculusRift_RadarExample/screenshot.png" width="50%" height="50%" alt="OculusRift_RadarExample">
 <br>
 
-###OculusRift_VideoSeeThrough
+### OculusRift_VideoSeeThrough
 
 This is an example for making augmented reality. You need web camera for running it. This code uses sarxos's [webcam-capture](https://github.com/sarxos/webcam-capture/) library instead of Processing's Capture class, because jna.jar used by Processing's Capture class conflicts with jna-4.1.0.jar used in OculusRift.pde.
 
 <img src="/OculusRift_VideoSeeThrough/screenshot.jpg" width="50%" height="50%" alt="OculusRift_VideoSeeThrough">
 <br>
 
-##Environment
+## Environment
 It was checked that it worked in the following environment.
 - Oculus Rift DK2 (currently only for DK2)
 - Oculus Runtime V0.5.0.1-beta
